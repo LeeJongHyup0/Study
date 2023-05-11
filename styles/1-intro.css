@@ -1,0 +1,15 @@
+
+.intro {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-image: url("/images/intro-bg.jpg");
+}
+
+
+@media (min-width: 769px) {
+  .intro {
+    height: 80px;
+  }
+}
+
